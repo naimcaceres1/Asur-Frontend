@@ -1,0 +1,11 @@
+import { ResetPassRequestForm } from "@/components/reset-pass-request-form";
+
+export default function ResetPassRequestPage() {
+  return (
+    <div className="bg-slate-300 flex min-h-svh flex-col items-center justify-center p-6 md:p-10">
+      <div className="w-full max-w-sm md:max-w-3xl">
+        <ResetPassRequestForm />
+      </div>
+    </div>
+  );
+}
