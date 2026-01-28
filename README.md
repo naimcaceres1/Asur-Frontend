@@ -6,7 +6,7 @@
 
 ASUR Frontend es el pilar visual de nuestra plataforma, permitiendo a diferentes perfiles de usuario (Administrador, Auxiliar, Coordinador, Consultor, Cliente) interactuar con los datos y funcionalidades del sistema. Desde el inicio de sesión hasta la gestión de usuarios, pasando por la visualización de métricas, esta aplicación está diseñada para ser intuitiva y eficiente.
 
-👥 Equipo de Desarrollo – Grupo Puentes Digitales
+## 👥 Equipo de Desarrollo – Grupo Puentes Digitales
 
 Naim Cáceres – naim.caceres@estudiantes.utec.edu.uy | naim.caceres1@gmail.com
 
